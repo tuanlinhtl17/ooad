@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ooad/static/css/main.cf3e0be7.chunk.css",
-    "main.js": "/ooad/static/js/main.81221771.chunk.js",
-    "main.js.map": "/ooad/static/js/main.81221771.chunk.js.map",
+    "main.js": "/ooad/static/js/main.a4823326.chunk.js",
+    "main.js.map": "/ooad/static/js/main.a4823326.chunk.js.map",
     "runtime~main.js": "/ooad/static/js/runtime~main.021ef5c0.js",
     "runtime~main.js.map": "/ooad/static/js/runtime~main.021ef5c0.js.map",
-    "static/js/2.9bd61ce7.chunk.js": "/ooad/static/js/2.9bd61ce7.chunk.js",
-    "static/js/2.9bd61ce7.chunk.js.map": "/ooad/static/js/2.9bd61ce7.chunk.js.map",
+    "static/js/2.e38b5729.chunk.js": "/ooad/static/js/2.e38b5729.chunk.js",
+    "static/js/2.e38b5729.chunk.js.map": "/ooad/static/js/2.e38b5729.chunk.js.map",
     "index.html": "/ooad/index.html",
-    "precache-manifest.a99eb97dde79576ce29abcf60547c9e2.js": "/ooad/precache-manifest.a99eb97dde79576ce29abcf60547c9e2.js",
+    "precache-manifest.84e325d7b9f5bea3a38a060d93d371d3.js": "/ooad/precache-manifest.84e325d7b9f5bea3a38a060d93d371d3.js",
     "service-worker.js": "/ooad/service-worker.js",
     "static/css/main.cf3e0be7.chunk.css.map": "/ooad/static/css/main.cf3e0be7.chunk.css.map"
   }
